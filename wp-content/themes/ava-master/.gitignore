@@ -1,0 +1,13 @@
+*.cache
+.ftppass
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+*.log
+*.zip
+*.map
+_demo/
+_dist/
+node_modules
+inc/admin/gulp/sftp.json
+environment.json
